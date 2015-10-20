@@ -8,7 +8,7 @@ def main():
         writing()    
     else:
         init_file = open('datebook.txt', 'w')
-        init_file.write("hello~\n")
+        init_file.write("hello ~\n")
         init_file.close()
         
         writing()
@@ -19,15 +19,16 @@ def writing():
     line = "test"
     
     while len(line) != 0:  
-        line = raw_input(">")  
-        diary.append(line + '\n')
+        line = raw_input("> ")  
+        diary.append('\n' +line )
 
-    localtime.append(time.strftime("%F , *wd%w , %X") + '\n') 
+    localtime.append(time.strftime("%Y-%m-%d %X")) 
     export = open('datebook.txt', 'a+')
-    export.writelines(diary + localtime)
+    export.writelines(localtime + diary)
     export.close()
     
 def reading():
+    diary = []
     readbook = open('datebook.txt')
     print readbook.read()
     readbook.close()
