@@ -1,6 +1,6 @@
 # Summary
 - [笔记的价值](0MOOC/README.md)
-    + [笔记记录什么](howtoDiary.md)
+    + [笔记记录什么](HowtoDiary.md)
 - [基础旋进](1sTry/README.md)
 - [公开课笔记](week0day4.md)
     + [第0周]
