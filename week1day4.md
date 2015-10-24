@@ -10,8 +10,8 @@ http://zoomq.qiniudn.com/CPyUG/zoomquiet-design-collection/index.html)
   空格缩进，No 制表缩进
 
 ## REPL 的探索
-    REPL：就是输入什么立即有输出, 反应
-    ipython: 数据科学必须安装的REPL，一个 python 的交互式 shell。内置了众多功能和函数
+- REPL：就是输入什么立即有输出, 反应
+- ipython: 数据科学必须安装的REPL，一个 python 的交互式 shell。内置了众多功能和函数
 
 ## 终端之威
 - [ssh](http://www.ssh.com/) ssh secure shell 实现科学上网 酷！！
