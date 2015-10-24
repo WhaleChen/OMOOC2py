@@ -30,3 +30,16 @@ http://zoomq.qiniudn.com/CPyUG/zoomquiet-design-collection/index.html)
 http://blog.youxu.info/category/keyboard  好像不能够打开
 
  >api: API（Application Programming Interface,应用程序编程接口）
+
+## 用官方文件解决问题  Tut and build-in function
+- pip show sphinx
+- make html
+#制作 python 官方文档的 html
+- aJiea.py
+
+> git ci -am "fixed if"
+
+- 调试 屏蔽 无关内容 加速测试
+      + type()
+- buil-in function 10:21
+
