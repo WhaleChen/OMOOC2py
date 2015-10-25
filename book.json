@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "disqus@0.0.4"
+        "disqus@0.0.3"
     ],
     "pluginsConfig": {}
 }
