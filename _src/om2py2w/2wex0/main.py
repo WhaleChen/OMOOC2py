@@ -1,6 +1,7 @@
 #-*- coding:utf-8 -*-
 import Tkinter
 from Tkinter import *
+from os.path import exists
 
 class App(Frame):
 
@@ -14,7 +15,7 @@ class App(Frame):
         # here is the application variable
         self.contents = StringVar()
         # set it to some value
-        self.contents.set("this is a variable")
+        self.contents.set("Pls enter the text here")
         # tell the entry widget to watch this variable
         self.entrythingy["textvariable"] = self.contents
 
@@ -24,16 +25,42 @@ class App(Frame):
         self.entrythingy.bind('<Key-Return>',
                               self.print_contents)
 		
-
+    
     def print_contents(self, event):
-        print "hi. contents of entry is now ---->", \
+        
+		print "You write >>>", \
               self.contents.get()
-			  
+		diary.write("\n"+self.contents.get())
+		# the process is the same as the first work. 
+		
+	
+def write_files():
+	filename = "diary.log"
+	if exists(filename) == True:
+	    diary =open(filename,'a+')
+		
+	    diaryAlreadyWitten =diary.read()
+	    print diaryAlreadyWitten
+	else:
+		diary =open(filename,'w')
+	diary.seek(0,2)
 	  
 
 root = Tk()
-root.geometry('100x100')
+root.geometry('200x200')
 #To adjust the window size
 app = App(master =root)
+filename = "diary.log"
+if exists(filename) == True:
+	diary =open(filename,'a+')
+		
+	diaryAlreadyWitten =diary.read()
+	print diaryAlreadyWitten
+else:
+	diary =open(filename,'w')
+diary.seek(0,2)
+#write_files()
+#I do not know how to make module with the name write_files()
 app.mainloop()
+
 root = destroy()
