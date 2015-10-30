@@ -2,5 +2,9 @@
     "plugins": [
         "disqus@0.0.3"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {        
+        "disqus": {
+             "shortName": "whale_road_by_python"
+            }
+        }
 }
