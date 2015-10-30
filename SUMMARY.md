@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [笔记的价值](0MOOC/README.md)
+   * [1.2 如何一步一步记录笔记](12_ru_he_yi_bu_yi_bu_ji_lu_bi_ji.md)
    * [笔记记录什么](HowtoDiary.md)
        * [1.2 如何一步一步记录笔记](12_ru_he_yi_bu_yi_bu_ji_lu_bi_ji.md)
 * [基础旋进](1sTry/README.md)
