@@ -15,6 +15,8 @@
    * [3.3用Tkinter编写交互日记系统GUI]
    * [3.4私人内网版交互日记系统]
    * [3.5网页版日记系统]
+* [4.C2T2聚会记录]
+   * [4.1第四周聚会记录](document/C2T2_151108Notes.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
 * [代码 (_src)](_src/README.md)
