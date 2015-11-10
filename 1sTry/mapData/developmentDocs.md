@@ -8,8 +8,8 @@
 
 1. 计算距离公式：x1(经度,纬度)-x2(经度,纬度)
 2. 自动获取地名相对应的经纬度值  
-3. 建立一个dict={城市名:(经度,纬度)...} 这样一个字典
-4. 输出
+3. 储存信息：建立一个dict={城市名:(经度,纬度)...} 这样一个字典
+4. 输出信息
 
 
 ## 基本信息：
@@ -60,4 +60,17 @@ var marker = new TMarker(new TLngLat(116.411794,39.9068))
 还是对[baidu API](http://developer.baidu.com/map/index.php?title=webapi/guide/webservice-geocoding)
 有python API 心存期盼，毕竟国内用百度方便，只是搜索无果。
 回到google python API
+- 再思考其实把问题想复杂了，只需要在一个网站中获得 dict={城市名:(经度,纬度)...} 这样的一个字典，保存在本地，就可以了，不用使用 mapsengine
+
+## 获取地理位置信息： 20151108 
+- 本地获取：本地dict 数据库？ 可以不用吗？先本地后网络是合适的
+- 网络获取：Googlemaps API Json 接口，利用python的urllib模块向GooglemapsAPI请求数据，并使用python的json模块对获取到的JSON数据进行处理，最终得到需要的城市信息
+- 
+
+http://outofmemory.cn/code-snippet/34158/usage-python-get-city
+http://www.cnblogs.com/coding-way/archive/2011/04/18/2019249.html
+http://www.oschina.net/code/snippet_1245006_25187
+http://www.pythonfan.org/thread-5719-1-1.html
+
+
 

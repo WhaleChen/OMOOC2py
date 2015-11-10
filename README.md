@@ -7,5 +7,6 @@ Whale's Road by Python
 > A little change will generate miracles!
 
 Enjoy Step by Step! 勇敢的狐狸
+Let the code sing a song and sing to himself!
 
 

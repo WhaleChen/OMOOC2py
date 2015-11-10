@@ -34,7 +34,7 @@ class App(Frame):
 		# the process is the same as the first work. 
 		
 	
-def write_files():
+def write_files(diary):
 	filename = "diary.log"
 	if exists(filename) == True:
 	    diary =open(filename,'a+')
@@ -51,15 +51,15 @@ root.geometry('200x200')
 #To adjust the window size
 app = App(master =root)
 filename = "diary.log"
-if exists(filename) == True:
-	diary =open(filename,'a+')
+# if exists(filename) == True:
+	# diary =open(filename,'a+')
 		
-	diaryAlreadyWitten =diary.read()
-	print diaryAlreadyWitten
-else:
-	diary =open(filename,'w')
-diary.seek(0,2)
-#write_files()
+	# diaryAlreadyWitten =diary.read()
+	# print diaryAlreadyWitten
+# else:
+	# diary =open(filename,'w')
+# diary.seek(0,2)
+write_files(diary)
 #I do not know how to make module with the name write_files()
 app.mainloop()
 
