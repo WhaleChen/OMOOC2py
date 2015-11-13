@@ -29,7 +29,7 @@ app =Bottle()
 @app.route('/')
 def mainpage():
     mydiary = initiate_files()
-    diaryNotes = diaryAlreadyWritten
+	diaryNotes = diaryAlreadyWritten
     welcome ='''
 <p>Python's Advanture:</p>
 '''

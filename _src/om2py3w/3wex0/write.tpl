@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 <body>
-<form action="/write" method="post">
+<form action="" method="post">
 	diaryInput: <input name="diaryInput" type="text" id="inp" />
     <input value="Submit" type="submit" />
 	<button name="quit" onclick="close();">All Done</button>
