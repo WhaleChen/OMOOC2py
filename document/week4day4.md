@@ -1,5 +1,5 @@
 # 第五周纪要：寻找效率低下的原因:让心流可复制 
-<dir class= 'flow'>
+dir class= 'flow'
 
 > 让所有的过程可用  from 大妈
 
@@ -60,7 +60,7 @@ Readability counts.
 -- Requests' phylosophy
  
 
-</dir>
+/dir>
 
 
 
