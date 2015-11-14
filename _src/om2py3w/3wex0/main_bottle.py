@@ -44,7 +44,9 @@ This is a try
 <input type="submit" value="Read txt" />
 </form>
 '''
-    
+    # how to get data from html? use get 
+	###>>>>>
+	line =request.forms.get('diary')
     return welcome +form_area + template('write',diaryWritten=diaryNotes)
 @app.route('/write')
 def write():

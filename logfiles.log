@@ -1,0 +1,560 @@
+commit d3c06800d45ec93e12eb0fe80a1a710e91e5b053
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Nov 13 11:49:32 2015 +0800
+
+    textarea could show data from diary.log
+
+commit 2dc8bdb03866a647ae62c9589656f226922edb6b
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Nov 13 11:31:53 2015 +0800
+
+    version0.1
+
+commit 83a0316938c74bc58958b41e387850ce76788d0d
+Author: WhaleChen <18621050278@163.com>
+Date:   Thu Nov 12 23:57:27 2015 +0800
+
+    the fifth week notes version1.0
+
+commit 2be93a8fb96103dde47de51fe609750dee1afeee
+Author: WhaleChen <18621050278@163.com>
+Date:   Tue Nov 10 23:28:06 2015 +0800
+
+    Add the C2T2 Notes
+
+commit ba9b29f58cb9f2bb4483c320fc563a51a3175c88
+Author: WhaleChen <18621050278@163.com>
+Date:   Tue Nov 10 15:41:04 2015 +0800
+
+    20151110
+
+commit 49418075d905285937edf419056f87b40d67ce41
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Nov 7 22:06:13 2015 +0800
+
+    Modified SUMMARY.md and the gitbook structure
+
+commit 1e0f01847969d43ea546f3d366f34979c669ad8f
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Nov 7 00:24:36 2015 +0800
+
+    Addin the 4th week Notes
+
+commit 088837ff8cca6c46b1e28003aa31a786a1ea83e9
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Nov 7 00:19:59 2015 +0800
+
+    Add week3day4.md
+
+commit eb4bd63f3dc42d17bde6b737671d523016185537
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 23:07:52 2015 +0800
+
+    Update SUMMARY.md
+
+commit db342e892dcc66c18dee5979ee099a795c808e2a
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 23:02:12 2015 +0800
+
+    Update SUMMARY.md
+
+commit 0aba0c71542bbe99eb1658e7c5109432f1d6e632
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 23:00:44 2015 +0800
+
+    Update week0day4.md
+
+commit b6c169de45f3c051a33927338f4cd41da7809c77
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:57:36 2015 +0800
+
+    Delete week0day4md.md
+
+commit 97ea814296064dc07112da2a7edef75d219300b1
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:57:35 2015 +0800
+
+    Create week0day4.md
+
+commit 87d83008d90aba8ea54d7d1d15a6ed07e060bee6
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:55:53 2015 +0800
+
+    Update week1day4.md
+
+commit a0a0178f797a27739006952f4ef987b19ae153fa
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:54:10 2015 +0800
+
+    Delete document/2week4day.md
+
+commit 320d3d221fe5523f3ea323a13e3be175f213cf72
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:54:08 2015 +0800
+
+    Create document/week2day4.md
+
+commit b77d11857997fd4d303035d18bfe026e0016337a
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:53:06 2015 +0800
+
+    Update SUMMARY.md
+
+commit 9d2cd54fafbac1cf0018cfcd072c55f3ce095e33
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:51:42 2015 +0800
+
+    Delete 2week4day.md
+
+commit 8416db784a1ba75b52ca492f014a1c462fe48a1c
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Nov 1 22:51:41 2015 +0800
+
+    Create document/2week4day.md
+
+commit 95e8ea7480192375346df9222b7b4182a4ebf046
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:54:20 2015 +0800
+
+    Update book.json
+
+commit d3d98213ad86edc64de666d1e3743279882ebb30
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:50:51 2015 +0800
+
+    Delete draft/2week4day.md
+
+commit aa4ab7c63cb904ca8028fc1bf4fb6c9790e6f94f
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:50:49 2015 +0800
+
+    Create 2week4day.md
+
+commit b3f590f94ec8a272d7686e14eab0c5a9c7d6a4b0
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:50:25 2015 +0800
+
+    Update SUMMARY.md
+
+commit 0da865d9630af248463855ce0d3075484c562bb3
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:50:06 2015 +0800
+
+    Update SUMMARY.md
+
+commit f4c09afd7128ae68f087a2996a431bc2b03dff59
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:49:08 2015 +0800
+
+    Update SUMMARY.md
+
+commit 6e7c6472e1ab75b6c05da3c443bb0201b82f2b48
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:48:59 2015 +0800
+
+    Update SUMMARY.md
+
+commit 5bf462555b5c182e42c59ea37009f9d2617f271a
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:48:36 2015 +0800
+
+    Update draft/2week4day.md
+
+commit 7f4a8e34f275103f99b4319ebade3b1fe26e182c
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:38:43 2015 +0800
+
+    Update SUMMARY.md
+
+commit 48f2b7831607938448af81aeaf378d249ba2a61a
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:38:37 2015 +0800
+
+    Create week0day4md.md
+
+commit 02e6a57a6d7dc4b2ff0224329f1665f8753b8d44
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:37:57 2015 +0800
+
+    Update document/README.md
+
+commit 8c299c72b196b1fef27ad936888d0d4a6aa41861
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:37:43 2015 +0800
+
+    Delete HowtoDiary.md
+
+commit e4914597c15bdf13e75af0e1b11ca08323862dca
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:37:42 2015 +0800
+
+    Create document/HowtoDiary.md
+
+commit 935f30d6e81efe6c535cf4093428eb0edde011dc
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:37:33 2015 +0800
+
+    Update SUMMARY.md
+
+commit 10449e61d316ee512b9147275b3521187824191b
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:36:07 2015 +0800
+
+    Create document/README.md
+
+commit 47bdf717d8fc2e2c6fa74bc486e25a655326b72a
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:35:23 2015 +0800
+
+    Create _src/document/README.md
+
+commit 1be67ee1d0f7983a36ec8fd381671c5494fe151c
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:34:35 2015 +0800
+
+    Delete solveProblemLevel.md
+
+commit d48ef0f61b9b75bc76e340a4a21aa8a4343b90ee
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:34:33 2015 +0800
+
+    Create draft/solveProblemLevel.md
+
+commit 0673ff7df15d7afe93d65204050b714094eb39ff
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:34:01 2015 +0800
+
+    Delete 2week4day.md
+
+commit 99de560c09f782087e9290f9d6b3fe1ef45e8915
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:33:57 2015 +0800
+
+    Create draft/2week4day.md
+
+commit 399bb6b0328a3c559891f41ca338b1fc6445f46e
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:33:15 2015 +0800
+
+    Update SUMMARY.md
+
+commit b1b223379e62df5b4e9439e956b5afd014468e0e
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:32:56 2015 +0800
+
+    Update SUMMARY.md
+
+commit 01784d8bcc77f98553baf92d8390ba7211a39e3a
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:32:47 2015 +0800
+
+    Update SUMMARY.md
+
+commit c900d59ac6f983b1937a9bf41b85aa32b4495216
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:32:39 2015 +0800
+
+    Update SUMMARY.md
+
+commit 270cf8c33cc5228c36cf3b13b48840e7653de4b7
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:32:35 2015 +0800
+
+    Create 12_ru_he_yi_bu_yi_bu_ji_lu_bi_ji.md
+
+commit 80560c7189a4ca66eee52ff942359b59721979cf
+Author: WhaleChen <18621050278@163.com>
+Date:   Fri Oct 30 23:32:04 2015 +0800
+
+    Update SUMMARY.md
+
+commit 9acec60e347f7b8ebccaac6a7930f5f6aad1c7ab
+Author: WhaleChen <18621050278@163.com>
+Date:   Thu Oct 29 23:34:04 2015 +0800
+
+    Create 2week4day.md
+
+commit 346c8746b69fa0574f7f6e2fe43e3255f398bc5c
+Author: WhaleChen <18621050278@163.com>
+Date:   Thu Oct 29 22:23:17 2015 +0800
+
+    Update SUMMARY.md
+
+commit 0dec7a9d5d6057acf80a9072313989278aa532ac
+Author: WhaleChen <18621050278@163.com>
+Date:   Wed Oct 28 23:09:42 2015 +0800
+
+    The progam can write to log file
+
+commit f458d58ee4d81cb2d1e2fb5a81d55c1b85771163
+Author: WhaleChen <18621050278@163.com>
+Date:   Wed Oct 28 22:08:14 2015 +0800
+
+    Tkinter can work version0.1
+
+commit f827cebc57cfa14b6795efde6436448f53ee9732
+Author: WhaleChen <18621050278@163.com>
+Date:   Tue Oct 27 23:31:21 2015 +0800
+
+    Create week2day2.md
+
+commit 79df85dcdebb3e6ab577e539598b32c086455e26
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 11:10:57 2015 +0800
+
+    disqus and TKinter
+
+commit e537eff4304fdd406a84b012eccc4a6205f394ee
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:50:05 2015 +0800
+
+    Update book.json
+
+commit 30b66b2b0e4d76482e53f5775fb97a5b787aa5af
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:23:51 2015 +0800
+
+    Update book.json
+
+commit 4584726abc6fd7eac507ab4514d3deae2719f963
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:23:34 2015 +0800
+
+    Update book.json
+
+commit 80a2ec491449b721818befd62d44cf35604e998d
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:17:55 2015 +0800
+
+    Update book.json
+
+commit 4183e73646b6133b54513fdf6fdeff4e4f673d9f
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:17:45 2015 +0800
+
+    Update book.json
+
+commit 5b18c3a2bff0e819aa36989bd7147ffd7b72191d
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:15:53 2015 +0800
+
+    Update book.json
+
+commit 6f127636a54707a39ccfb20eeb777e99ebe5e959
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:15:49 2015 +0800
+
+    Update book.json
+
+commit 4cba6df9b64e4f021fa4f9789459daf364e6db8b
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 10:12:36 2015 +0800
+
+    Create book.json
+
+commit 7ff57904e16d2e71aa5c51db72109dd29c9cd49a
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 25 09:35:41 2015 +0800
+
+    book.jason modified
+
+commit fdadbfc1b244df9bcd050c7400c2faca549477eb
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 23:36:37 2015 +0800
+
+    Delete book.jason
+
+commit 169c6ccb58943b5d319e3ec77b3c6b4ec879725e
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 21:08:23 2015 +0800
+
+    Update week1day4.md
+
+commit e61ee024fe9ea37e028637cf1a2b946d063da07c
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 21:07:50 2015 +0800
+
+    Add REPL note
+
+commit d3506e7e1f146b4b256b156f8ae148a3829ea999
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 18:21:45 2015 +0800
+
+    Update week1day4.md
+
+commit 65b46294af168fb28a4e5d8aae28abcc5188b147
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 18:04:03 2015 +0800
+
+    Add cli notes
+
+commit 153f09c3b65ed651b9e33fbe96ea4fba23131dfc
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:54:04 2015 +0800
+
+    Update SUMMARY.md
+
+commit b48af87a675b95a35477ffceb3b88f5b0d7b1483
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:53:28 2015 +0800
+
+    Update SUMMARY.md
+
+commit 0270e489ea666e66d04a45285c7d95bf00a4ac0a
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:52:18 2015 +0800
+
+    Create HowtoDiary.md
+
+commit 0a393a15fcfda36769321f5e7b2819e129e56215
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:41:57 2015 +0800
+
+    Update SUMMARY.md
+
+commit 83078d3f2196545687dc75012683420129ad8344
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:41:39 2015 +0800
+
+    Update SUMMARY.md
+
+commit 52f3e43146389e59ea659ee8ce4f473796638b8a
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:40:57 2015 +0800
+
+    Update SUMMARY.md
+
+commit e26f8fd50f147848c3c5bbcfd244f3057bca0ac1
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:28:29 2015 +0800
+
+    Update week1day4.md
+
+commit e1be0a15d7a37eaceb78c954f3dadcc0acab36aa
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:23:58 2015 +0800
+
+    Create modulefromZoomq.py
+
+commit 513ead0ba0cda191ad8a4aeb5382878fa8336f90
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 01:14:03 2015 +0800
+
+    Create week1day4.md
+
+commit af25c35b3a2f894dfb67a41b32884d65dbfdf5d9
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 00:42:32 2015 +0800
+
+    Update README.md
+
+commit e1a6d13c45a758384a2dcec81289939ce60b77d0
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 00:40:48 2015 +0800
+
+    Update README.md
+
+commit 76d5137531ea74d187a67158eec047ccd7067bd1
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 00:32:53 2015 +0800
+
+    Update README.md
+
+commit a4560575e6bf111551cdd140d17a8b5e32207ab7
+Author: WhaleChen <18621050278@163.com>
+Date:   Sat Oct 24 00:21:45 2015 +0800
+
+    Update SUMMARY.md
+
+commit 14a3f97c49dcd9084fad12efb08e446f11be7c72
+Author: WhaleChen <18621050278@163.com>
+Date:   Wed Oct 21 22:52:40 2015 +0800
+
+    Version0.1
+
+commit 0e4b8eceece836efff16cd49bcbaec6aeb194719
+Author: WhaleChen <18621050278@163.com>
+Date:   Wed Oct 21 22:44:51 2015 +0800
+
+    Version0.1
+    
+    The first code version
+
+commit 459eafc314a2aa17af613639c10a3d48f7d15076
+Merge: e7f8802 59376d8
+Author: WhaleChen <18621050278@163.com>
+Date:   Wed Oct 21 22:21:24 2015 +0800
+
+    Merge branch 'master' of github.com:WhaleChen/OMOOC2py
+
+commit e7f880273dece6d6053812cf3b64b332af0d908c
+Author: WhaleChen <18621050278@163.com>
+Date:   Wed Oct 21 22:09:21 2015 +0800
+
+    Add Owex1 work v0.1
+
+commit 59376d89bcd65be916da1b5218fe9b9e2c64c57e
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 18 22:03:14 2015 +0800
+
+    Add book.jason for disqus
+
+commit 80bf6e5e5f5a7106c2099dd20375ceaefcbfb823
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 18 22:00:51 2015 +0800
+
+    README rewrite
+
+commit 1d6fdbe1348dbaefdc0ef8e182b5df204e81ad0b
+Author: WhaleChen <18621050278@163.com>
+Date:   Sun Oct 18 21:56:25 2015 +0800
+
+    Modified from DaMa
+
+commit b0f5d06efbe87bd9f175cc196b2eeb67b9a4d861
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Tue Oct 6 10:11:44 2015 +0800
+
+    fixed _draft path
+
+commit a0cf02e60e700d3a180455d2668a49c629c0621f
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Mon Oct 5 21:42:10 2015 +0800
+
+    fixed scaffold durs
+
+commit 4d0f91bb470dceaa394b92c25e36012f4952556b
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Mon Oct 5 20:51:58 2015 +0800
+
+    up summary
+
+commit bb3984e288faa446479952f807d8581bbf6694ba
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Mon Oct 5 17:00:07 2015 +0800
+
+    appended contaits for weekly
+
+commit 0f34e8634e11a22341d0a123f3a8593a51d044be
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Mon Oct 5 16:51:48 2015 +0800
+
+    up all week readme
+
+commit 2362a2d0f6badfed67ac3c5c0d6ffdf81341ec81
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Mon Oct 5 16:18:56 2015 +0800
+
+    私人教程脚手架设定
+
+commit 3528db7594804b7bcc71bbd3d3e12fb43e8292d5
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Mon Oct 5 16:00:20 2015 +0800
+
+    init. scaffold from https://github.com/OpenMindClub/OMOOC.py/tree/primer2
+
+commit 6cbc7b836d3c39de30387f7c5629c27a3a74a919
+Author: Zhiping Yang <y@anrenmind.com>
+Date:   Mon Oct 5 12:24:33 2015 +0800
+
+    Initial commit
