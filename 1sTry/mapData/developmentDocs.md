@@ -65,12 +65,19 @@ var marker = new TMarker(new TLngLat(116.411794,39.9068))
 ## 获取地理位置信息： 20151108 
 - 本地获取：本地dict 数据库？ 可以不用吗？先本地后网络是合适的
 - 网络获取：Googlemaps API Json 接口，利用python的urllib模块向GooglemapsAPI请求数据，并使用python的json模块对获取到的JSON数据进行处理，最终得到需要的城市信息
-- 
+- 参考代码线索：
 
-http://outofmemory.cn/code-snippet/34158/usage-python-get-city
-http://www.cnblogs.com/coding-way/archive/2011/04/18/2019249.html
-http://www.oschina.net/code/snippet_1245006_25187
-http://www.pythonfan.org/thread-5719-1-1.html
+-http://outofmemory.cn/code-snippet/34158/usage-python-get-city
+-http://www.cnblogs.com/coding-way/archive/2011/04/18/2019249.html
+-http://www.oschina.net/code/snippet_1245006_25187
+-http://www.pythonfan.org/thread-5719-1-1.html
 
-
+## 继续航行：20151114
+- 问题在于如何获得google map Api 的 数据方式如何提供 
+- 参考：
+http://blog.chinaunix.net/uid-25316333-id-3056071.html
+发现 http://maps.googleapis.com/maps/api/geocode/json?address=""
+意识到 可以 如此来获得位子信息 ，加入 中文 上海 北京 和 Shanghai Beijing 都可以。
+- 用 http://maps.googleapis.com/maps/api/geocode/json?address=Shanghai  查看 内容，发现经纬度信息在"geometry"中"location" 的"lat" "lag"
+- 获得  数据，只是处理数据出现问题。多一个'u'
 
