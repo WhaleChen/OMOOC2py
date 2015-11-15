@@ -1,7 +1,7 @@
 {
     "plugins": [disqus],
     "pluginsConfig": {
-        "disqus": {
+         "disqus": {
              "shortName": "whale_road_by_python"
             }
         }
