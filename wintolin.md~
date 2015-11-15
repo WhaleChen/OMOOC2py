@@ -11,7 +11,7 @@
 本质上，linux 远比windows 好用，只是，windows 中习惯舍弃真的需要时间。
 
 ##win档的童鞋的有几种选择：
-- 买一台Mac：最快！不过需要习惯Mac~
+- 买一台Mac：最快！
 - 装虚拟机：oh my God！ 真的需要搞半天，需要童鞋的分享
 - 装Cgwin 或者 babun: 这个真好，尤其是babun
 - 用 PowerShell : 很多梗！需要配合 git bash 和其他的种种。
@@ -20,7 +20,7 @@
 [陈三的日记](https://www.zfanw.com/blog/windows-software-i-use.html)
 
 ## 发现：哇！真的好！
-- windows 确实不好，方向一定是Linux,不过更重要的是cli方式。
+- windows 确实不好，方向一定是Linux
 - 只是当下的需要不就是一个简单方便的命令行输入zsh 和快捷操作吗？
 - 同时老win 们还需要对win的习惯有一个交账
 
