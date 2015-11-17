@@ -17,12 +17,13 @@ class GeoCoding(object):
 	    url_get_geo=self.url +'?' +'address='+geo_name
 	    handler =urllib2.urlopen(url_get_geo)
 	    resp_data =handler.read()
+	    #data_f=json.dumps(resp_data,ensure_ascii=False)
 	    #print resp_data
-	    #resp1 =json.dumps(resp_data)
-	    #print resp1
 	    resp =json.loads(resp_data)
+	    print type(resp)
+	    print resp
 
-	    print resp['results']['geometry']['location']['lat']
+	    #print resp['results']['geometry']['location']['lat']
 	    if resp['status'] =='ok':
 		        #get lat lng and address
 			for geo_info in resp['results']:
