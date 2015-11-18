@@ -1,8 +1,10 @@
 {
-     "plugins": [disqus],
-     "pluginsConfig": {
-         "disqus": {
-             "shortName": "whale_road_by_python"
-            }
-        }
+    "title":"Whale's Road to Python",
+	
+	"plugins": ["disqus"],
+	"pluginsConfig": {
+		"disqus": {
+			"shortName": "whale_road_by_python"
+		}
+	}
 }
