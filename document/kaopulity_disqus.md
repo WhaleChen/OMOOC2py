@@ -1,5 +1,8 @@
 # 梗点：Gitbook 安装 disqus
+
 仔细看自己 寻求问题的脉络是非常有趣的：
+
+## 把脉：
 -第一周：用gitbook 的网上editor 写文档, disqus 无头绪！！
     + 用尝试和官方文档解决问题的尝试，无果 [gitbookdocument](https://help.gitbook.com/)
     + gitbook developers
@@ -18,7 +21,7 @@
     + 答应Cnfeat 要加上disqus. 汗死了，下定决心！
     + 放下自己，Enjoy the moment 
 
-正确代码：
+### 正确代码：
 ```
 {
 	
