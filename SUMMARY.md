@@ -10,6 +10,7 @@
    * [2.3第三周](document/week2day4.md)
    * [2.4第四周](document/week3day4.md)
    * [2.5第五周](document/week4day4.md)
+   * [2.6第六周](document/week5day3.md)
 * [3.基础旋进](1sTry/workingdocuments.md)
    * [3.1使用python获取地图城市间距离](1sTry/mapData/developmentDocs.md)
    * [3.2使用python完成MyDiary初步版本]
@@ -23,5 +24,6 @@
 * [代码 (_src)](_src/README.md)
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
-* [有关](ABOUT.md)
+* [梗点](ABOUT.md)
+   * [Gitbook之disqus安装](document/Kaopulity_disqus.md)
 
