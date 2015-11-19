@@ -46,7 +46,7 @@ keyword: 促馈 密码学 钻研
 我又何尝不是呢？
 - 很喜欢xpeng的 [4wd4 Note](https://xpgeng.gitbooks.io/omooc2py/content/0MOOC/4wd4.html)
 提到文档内容的最小框架，突出要迭代自己的思维模式
-### 梗点：[disqus的安装](Kaopulity_disqus.md)
+### 梗点：[disqus的安装](kaopulity_disqus.md)
 ### 改进：
 - 方向正确间站定了
 - 放松，寻求帮助，而非倒在大妈之下，复制粘贴？？NO

@@ -25,5 +25,5 @@
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
 * [梗点](ABOUT.md)
-   * [Gitbook之disqus安装](document/Kaopulity_disqus.md)
+   * [Gitbook之disqus安装](document/kaopulity_disqus.md)
 
