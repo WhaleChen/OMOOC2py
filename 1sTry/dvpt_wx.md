@@ -23,7 +23,7 @@
 - 由于希望模仿 微信的输出，我用了一个本地化的偷懒的办法，小赖的方法太高深了对我。我先用一个简单的。
 
 Server:
-'''
+```
 @app.post('/')
 def get_data():
         import xml.etree.ElementTree as ET
@@ -46,12 +46,12 @@ def get_data():
     
 debug(True)
 run(app, host='localhost', port =8080,reloader=True)
-'''
+```
 
 
 - 如何仿造 微信端呢？ 用 requests
 
-'''
+```
 import requests
 from bs4 import BeautifulSoup
 
@@ -73,7 +73,7 @@ r = requests.post(url,data = value)
 print str(r)
 print r.url
 print r.text
-'''
+```
 
 
 ## 数据库： 继续使用 MySQL：
@@ -87,5 +87,6 @@ print r.text
 
 ## 实践：
 - 实现第一个功能：心流状态的持续记录
+
 
 
