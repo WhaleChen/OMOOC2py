@@ -87,6 +87,11 @@ print r.text
 
 ## 实践：
 - 实现第一个功能：心流状态的持续记录
-
-
+- [Google Py Styl](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/) 发现当编码量上去了，非多看不可
+- 发现自己忠于自己的本性的结果就是代码累赘有不靠谱 
+- 类似错误和出现很多，这个代码权当改错的原件
+``` 
+if len(users) == 0
+```
+- 自以为终于在一个py中就到了200行，发现原来自己是那么累赘~多读 GPS！！！
 

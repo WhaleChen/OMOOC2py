@@ -78,4 +78,9 @@ keyword: 促馈 密码学 钻研
 
 我女儿最喜欢的歌曲，我想说幸福的童鞋爱python！
 
+## Google Py Style 体会
+- 终于，在大妈的严正要求下，读了一遍
+-最让我收益的竟然是 [临别赠言](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/parting_words/)
+- "请务必保证代码的一致性"
+
 
