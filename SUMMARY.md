@@ -11,6 +11,7 @@
    * [第四周](document/week3day4.md)
    * [第五周](document/week4day4.md)
    * [第六周](document/week5day3.md)
+   * [第七周](document/week6day4.md)
 * [3.基础旋进](1sTry/workingdocuments.md)
    * [使用python获取地图城市间距离](1sTry/mapData/developmentDocs.md)
    * [使用python完成MyDiary初步版本]
@@ -18,6 +19,7 @@
    * [私人内网版交互日记系统]
    * [网页版日记系统](1sTry/dvpt_web.md)
    * [微信版日记系统：情绪日记](1sTry/dvpt_wx.md)
+   * [手机版日记系统：情绪日记](1sTry/dvpt_mobile.md)
 * [4.C2T2聚会记录]
    * [第四周聚会记录](document/C2T2_151108Notes.md)
 * [迭代作品](2nDev/README.md)
