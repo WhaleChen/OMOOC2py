@@ -22,7 +22,8 @@
    * [手机版日记系统：情绪日记](1sTry/dvpt_mobile.md)
 * [4.C2T2聚会记录]
    * [第四周聚会记录](document/C2T2_151108Notes.md)
-* [迭代作品](2nDev/README.md)
+* [迭代项目:imoodmap](2nDev/README.md)
+   * [imoodmap 第一周项目阶段评估和任务重塑](imoodmap/20151209review.md)
 * [人生首秀](3rDemo/README.md)
 * [代码 (_src)](_src/README.md)
 * [素材 (draft)](draft/README.md)
