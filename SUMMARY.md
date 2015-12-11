@@ -12,6 +12,8 @@
    * [第五周](document/week4day4.md)
    * [第六周](document/week5day3.md)
    * [第七周](document/week6day4.md)
+   * [第八周]
+   * [第九周](document/week8day4.md)
 * [3.基础旋进](1sTry/workingdocuments.md)
    * [使用python获取地图城市间距离](1sTry/mapData/developmentDocs.md)
    * [使用python完成MyDiary初步版本]
